@@ -54,7 +54,11 @@ footer{text-align:center;background:#34251f;color:white;padding:25px;margin-top:
 <div class="grid">
 
 <div class="product">
-<img src="https://placehold.co/300x200/e8d8ca/34251f?text=Product+1">
+<img src="hair-set.jpg" alt="Oil Repair Intensiv">
+<h3>مجموعة العناية بالشعر Balea</h3>
+<p class="price">149 DH</p>
+<a class="buy" href="https://wa.me/212710476914text=بغيت نطلب مجموعة العناية بالشعر Balea" target="_blank">اطلبي الآن</a>
+
 <h3>منتج الأول</h3>
 <p class="price">99 DH</p>
 <a class="buy" href="#contact">اطلبي الآن</a>

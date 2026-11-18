@@ -79,9 +79,11 @@ footer{text-align:center;background:#34251f;color:white;padding:25px;margin-top:
 
 <footer id="contact">
 <h3>LAMIA STORE</h3>
-<p>للطلب والاستفسار تواصلي معنا</p>
+<p><a href="https://wa.me/0710476914" target="_blank" style="color: #d2b48c; text-decoration: underline;">تواصل معنا عبر واتساب للطلب</a></p>
+
 <p>© 2026 LAMIA STORE</p>
 </footer>
 
 </body>
 </html>
+

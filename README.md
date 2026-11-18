@@ -52,13 +52,13 @@ footer{text-align:center;background:#34251f;color:white;padding:25px;margin-top:
 <section class="products" id="products">
 <h2>منتجاتنا</h2>
 <div class="grid">
-
 <div class="product">
-<img src="hair-set.jpg" alt="Oil Repair Intensiv">
-h3>مجموعة العناية بالشعر Balea</h3>
-class="price">499 DH</p
+    <img src="hair.jpg" alt="Oil Repair Intensiv">
+    <h3>مجموعة العناية بالشعر Balea</h3>
+    <p class="price">499DH</p>
+    <a class="buy" href="https://wa.me/212710476914?text=بغيت نطلب مجموعة العناية بالشعر Balea" target="_blank">اطلبي الآن</a>
+</div>
 
-<p class="price">149 DH</p>
 <a class="buy" href="https://wa.me/212710476914text=بغيت نطلب مجموعة العناية بالشعر Balea" target="_blank">اطلبي الآن</a>
 
 <h3>منتج الأول</h3>

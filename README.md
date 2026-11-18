@@ -60,7 +60,7 @@ footer{text-align:center;background:#34251f;color:white;padding:25px;margin-top:
 <a class="buy" href="https://wa.me/212710476914text=بغيت نطلب مجموعة العناية بالشعر Balea" target="_blank">اطلبي الآن</a>
 
 <h3>منتج الأول</h3>
-<p class="price">99 DH</p>
+<p class="price">٤٩٩</p>
 <a class="buy" href="#contact">اطلبي الآن</a>
 </div>
 
